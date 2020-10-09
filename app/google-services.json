@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627331967181",
+    "firebase_url": "https://whatsapp-ea2c6.firebaseio.com",
+    "project_id": "whatsapp-ea2c6",
+    "storage_bucket": "whatsapp-ea2c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627331967181:android:500d5998b076d18cb36184",
+        "android_client_info": {
+          "package_name": "doitgames.example.whatsappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627331967181-l5e9726tjv2b91hr1tlgnva8t7id0blp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "doitgames.example.whatsappproject",
+            "certificate_hash": "06b6a76b50c6946a57a844236124eff02fa5b9ae"
+          }
+        },
+        {
+          "client_id": "627331967181-5678sqi1b6b04sn71plqke7n57vd0g2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OfVrcs2gF2THdZO47bEqezeMKCogaeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627331967181-5678sqi1b6b04sn71plqke7n57vd0g2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
